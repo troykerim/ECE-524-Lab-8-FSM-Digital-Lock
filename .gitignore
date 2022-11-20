@@ -1,1 +1,5 @@
-
+hardware/*
+hardware/lab8/*
+!hardware/src
+!hardware/lab8.tcl
+!hardware/constr
